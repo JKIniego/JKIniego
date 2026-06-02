@@ -28,3 +28,7 @@ I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science in th
 ### Build Tools & Workflow
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github&logoColor=white)
+
+## Let's Connect!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhun-kenneth-iniego-3a266738b/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jhunkenneth.iniego.5)
