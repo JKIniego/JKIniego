@@ -14,6 +14,8 @@ I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science at th
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 
 ### ⚙️ Backend & Databases
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -27,7 +29,14 @@ I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science at th
 
 ### ⚡ Build Tools & Workflow
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎓 Academic Exposure & Coursework
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge&logo=webassembly&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU_Octave-F8981D?style=for-the-badge&logo=octave&logoColor=white)
 
 ## 📫 Let's Connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhun-kenneth-iniego-3a266738b/)
