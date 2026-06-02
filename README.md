@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there
+
+---
 
 ## About Me
 I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science in the University of the Philippines Tacloban. I am aspiring to become a **Web Developer** aiming to build clean, responsive, and interactive user experiences.
@@ -28,9 +30,6 @@ I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science in th
 ### Build Tools & Workflow
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github&logoColor=white)
-
-## 📈 GitHub Metrics
-![Your GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JKIniego&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=3ECF8E&icon_color=3ECF8E)
 
 ## Let's Connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhun-kenneth-iniego-3a266738b/)
