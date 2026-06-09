@@ -3,6 +3,10 @@
 ## 🚀 About Me
 I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science at the University of the Philippines Tacloban. I aspire to become a **Web Developer**, building clean, responsive, and interactive user experiences.
 
+- 🌱 **Currently Learning:** Exploring different software architectures and modern frameworks.
+- 🚀 **Currently Exploring:** Testing out new technologies and development tools.
+- ⚡ **Fun Fact:** I am learning formal workflow models and workflow automation systems.
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
