@@ -43,9 +43,9 @@ I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science at th
 ## 📫 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/jhun-kenneth-iniego-3a266738b/" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://api.iconify.design/skill-icons:linkedin.svg" height="40" width="40" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/jhunkenneth.iniego.5" target="_blank">
-    <img src="https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white" height="40" alt="Facebook" />
+    <img src="https://api.iconify.design/skill-icons:facebook.svg" height="40" width="40" alt="Facebook" />
   </a>
 </p>
