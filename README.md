@@ -36,16 +36,16 @@ I am **Jhun Kenneth R. Iniego**, currently pursuing BS in Computer Science at th
 ### 🎓 Academic Exposure & Coursework
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,assembly,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=arduino,wasm,r,matlab" />
   </a>
 </p>
 
 ## 📫 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhun-kenneth-iniego-3a266738b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.linkedin.com/in/jhun-kenneth-iniego-3a266738b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/jhunkenneth.iniego.5">
-    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Facebook" style="content: url('https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white');" />
+  <a href="https://www.facebook.com/jhunkenneth.iniego.5" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="35" alt="Facebook" />
   </a>
 </p>
